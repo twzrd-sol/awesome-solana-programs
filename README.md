@@ -72,6 +72,7 @@ A curated list of open-source Solana programs from the community.
 - [Steel](https://github.com/regolith-labs/steel) - Library of helper functions, macros
 - [Sbpf](https://github.com/blueshift-gg/sbpf) - Scaffold to bootstrap sBPF Assembly programs
 - [Poseidon](https://github.com/Turbin3/poseidon) - Transpiler to convert TypeScript programs to Anchor
+- [Quasar](https://github.com/blueshift-gg/quasar) - no_std Solana program framework
 
 ## Learning Resources
 
