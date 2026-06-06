@@ -52,6 +52,7 @@ A curated list of open-source Solana programs from the community.
 
 ## Infrastructure
 - [Squads](https://github.com/Squads-Protocol/v4) - Multisig program
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana AI agent trust scoring and x402 USDC micropayment verification. MCP-native: `https://intel.twzrd.xyz/mcp`
 
 ## Developer Tools
 
@@ -113,4 +114,5 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
